@@ -7,9 +7,9 @@ musings
 * https://github.com/go-monk/legacy-code
 
 net/http
-* https://github.com/go-monk/getting-a-remote-scroll
+* https://github.com/go-monk/getting-a-remote-scroll :-)
 * https://github.com/go-monk/http-servers
-* https://github.com/go-monk/dot-file-hiding-file-server
+* https://github.com/go-monk/dot-file-hiding-file-server :-)
  
 ---
 
