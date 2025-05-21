@@ -10,3 +10,7 @@ devops
 
 musings
 * https://github.com/go-monk/legacy-code
+
+---
+
+You might want to subscribe: https://go-monk.beehiiv.com
