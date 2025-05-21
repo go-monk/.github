@@ -3,4 +3,9 @@ Since Go is an open-source project, you can read the code for any type or functi
 net/http
 
 * https://github.com/go-monk/getting-a-remote-scroll
+* https://github.com/go-monk/http-servers
 * https://github.com/go-monk/dot-file-hiding-file-server
+
+devops
+
+* https://github.com/go-monk/from-bash-to-go
