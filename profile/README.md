@@ -1,4 +1,4 @@
-Hello 👋. I'm not an application developer but I enjoy writing programs. I started using Go in 2018—after using Bash, Perl and Python—for tools, automation, security and integration tasks. I haven’t looked back since. I created this organization to learn, share some thoughs and code. I hope others find it useful and maybe even contribute. You might want to [subscribe](https://go-monk.beehiiv.com/subscribe) to get new stuff via email ✉️.
+Hello 👋. I've been working in the devops (sysadmin) and security realms. I started using Go in 2018—after using Bash, Perl, and Python—for tools, automation, security, and integration tasks. I haven’t looked back since.  I created this organization to learn, share some thoughs and code. I hope others find it useful and maybe even contribute. You might want to [subscribe](https://go-monk.beehiiv.com/subscribe) to get new content by email ✉️.
 
 devops
 * https://github.com/go-monk/from-bash-to-go
