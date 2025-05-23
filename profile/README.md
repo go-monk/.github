@@ -7,7 +7,7 @@ security
 * [tcp-scanner](https://github.com/go-monk/tcp-scanner) - Building a simple port scanner (2025-05-23)
 
 musings
-* [legacy-code](https://github.com/go-monk/legacy-code) - And what to do about it (2025-05-22)
+* [legacy-code](https://github.com/go-monk/legacy-code) - and what to do about it (2025-05-22)
 
 golang
 * [http-servers](https://github.com/go-monk/http-servers) - Intro to net/http package (2025-05-21)
