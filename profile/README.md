@@ -3,6 +3,9 @@ Hello 👋. I've been working in the devops (sysadmin) and security realms. I st
 devops
 * [from-bash-to-go](https://github.com/go-monk/from-bash-to-go) (2025-05-15)
 
+security
+* [tcp-scanner](https://github.com/go-monk/tcp-scanner) (2025-05-23)
+
 musings
 * [legacy-code](https://github.com/go-monk/legacy-code) (2025-05-22)
 
