@@ -9,7 +9,7 @@ security
 musings
 * [legacy-code](https://github.com/go-monk/legacy-code) (2025-05-22)
 
-net/http
-* [getting-a-remote-scroll](https://github.com/go-monk/getting-a-remote-scroll) :-) (2025-05-20)
+golang
 * [http-servers](https://github.com/go-monk/http-servers) (2025-05-21)
+* [getting-a-remote-scroll](https://github.com/go-monk/getting-a-remote-scroll) :-) (2025-05-20)
 * [dot-file-hiding-file-server](https://github.com/go-monk/dot-file-hiding-file-server) :-) (2025-05-15)
