@@ -12,5 +12,5 @@ musings
 golang
 * [http-servers](https://github.com/go-monk/http-servers) - Intro to net/http package (2025-05-21)
 * [getting-a-remote-scroll](https://github.com/go-monk/getting-a-remote-scroll) - A dialogue on http.Get :-) (2025-05-20)
-* [html-template-and-htmx](https://github.com/go-monk/html-template-and-htmx) - Intro to making web pages dynamic (2025-05-26)
+* [htmx-and-templ](https://github.com/go-monk/htmx-and-templ) - Making web pages dynamic on the server side (2025-05-26)
 * [dot-file-hiding-file-server](https://github.com/go-monk/dot-file-hiding-file-server) - A dialogue on Go interface embedding :-) (2025-05-15)
