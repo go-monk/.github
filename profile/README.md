@@ -7,6 +7,7 @@ security
 * [tcp-scanner](https://github.com/go-monk/tcp-scanner) - Building a simple port scanner (2025-05-23)
 
 musings
+* [excellence-vs-pragmatism](https://github.com/go-monk/excellence-vs-pragmatism) - Balancing Craftsmanship and Pragmatism (2025-05-27)
 * [legacy-code](https://github.com/go-monk/legacy-code) - and what to do about it (2025-05-22)
 
 golang
