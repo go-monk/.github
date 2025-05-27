@@ -11,6 +11,7 @@ musings
 * [legacy-code](https://github.com/go-monk/legacy-code) - and what to do about it (2025-05-22)
 
 golang
+* [todo-rest-api](https://github.com/go-monk/todo-rest-api] - Simple pure Go REST API server (2025-05-28)
 * [http-servers](https://github.com/go-monk/http-servers) - Intro to net/http package (2025-05-21)
 * [getting-a-remote-scroll](https://github.com/go-monk/getting-a-remote-scroll) - A dialogue on http.Get :-) (2025-05-20)
 * [htmx-and-templ](https://github.com/go-monk/htmx-and-templ) - Evolving a minimal web server into dynamic app without JavaScript (2025-05-26)
