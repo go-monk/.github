@@ -1,4 +1,4 @@
-Hello 👋. I've been working in the devops (sysadmin) and security realms. I started using Go in 2018—after using Bash, Perl, and Python—for tools, automation, security, and integration tasks. I haven’t looked back since.  I created this organization to learn and share some thoughs and code. I hope others find it useful and maybe even contribute.
+Hello 👋. I've been working in the DevOps and security realms. I started using Go in 2018—after using Bash, Perl, and Python—for tools, automation, security, and integration tasks. I haven’t looked back since.  I created this organization to learn, share some thoughts and code. I hope others find it useful and maybe even contribute. The repos from this organization are rendered at [go-monk.beehiiv.com](https://go-monk.beehiiv.com) where you can also subscribe to receive new content via email.
 
 devops
 * [from-bash-to-go](https://github.com/go-monk/from-bash-to-go) - Bash is great until it isn't (2025-05-15)
