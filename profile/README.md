@@ -1,4 +1,4 @@
-Hello friend 👋. I’ve been working in the sysadmin, DevOps, and cybersecurity domains. I came to Go after using mostly Bash, Perl, and Python. It took me a while to become productive in Go, but now I use it (with a bit of Bash for smaller tasks) most of the time — for building tools, automation, and platforms, as well as for learning and experimenting.
+Hello friend 👋. I’ve been working in the sysadmin, DevOps and cybersecurity domains. I came to Go after using mostly Bash, Perl and Python. It took me a while to become productive in Go but now I use it (with a bit of Bash for smaller tasks) most of the time — for building tools, automation and platforms, as well as for learning and experimenting.
 
 This organization holds repositories with handcrafted Go code and writings.
 
