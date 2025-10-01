@@ -4,9 +4,7 @@ This organization holds repositories with handcrafted tutorials and tools that I
 
 > The delight and pride of Aulë is in the deed of making, and in the thing made, and neither in possession nor in his own mastery; wherefore he gives and hoards not, and is free from care, passing ever on to some new work. -- The Silmarillion
 
-You can [suggest](https://github.com/orgs/go-monk/discussions/1) future content and [subscribe](https://go-monk.beehiiv.com/subscribe) to receive new content via email.
-
-Some feedback about the content:
+You can [suggest](https://github.com/orgs/go-monk/discussions/1) future content and [subscribe](https://go-monk.beehiiv.com/subscribe) to receive new content via email. Here's some feedback about the content:
 
 <img width="412" height="75" alt="image" src="https://github.com/user-attachments/assets/af5da5bc-a2c5-432e-9520-3489a57c3841" />
 
