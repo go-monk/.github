@@ -6,6 +6,4 @@ This organization holds repositories with handcrafted tutorials and tools that I
 
 You can [suggest](https://github.com/orgs/go-monk/discussions/1) future content and [subscribe](https://go-monk.beehiiv.com/subscribe) to receive new content via email. Here's some feedback about the content:
 
-<img width="412" height="75" alt="image" src="https://github.com/user-attachments/assets/af5da5bc-a2c5-432e-9520-3489a57c3841" />
-
--- [John Arundel](https://bitfieldconsulting.com) on [reddit](https://www.reddit.com/r/golang/comments/1np884o/comment/nfz99xu)
+<img width="412" height="75" alt="image" src="https://github.com/user-attachments/assets/af5da5bc-a2c5-432e-9520-3489a57c3841" /> -- [John Arundel](https://bitfieldconsulting.com) on [reddit](https://www.reddit.com/r/golang/comments/1np884o/comment/nfz99xu)
