@@ -8,4 +8,4 @@ This organization holds tutorials and tools that I write mainly to keep learning
 
 Commenters on [Hacker News](https://news.ycombinator.com/item?id=45167436):
 
-<img width="638" height="160" alt="image" src="https://github.com/user-attachments/assets/57e1a065-2526-4f31-a236-11a4a3f56d03" />
+<img width="1033" height="138" alt="image" src="https://github.com/user-attachments/assets/c4b841d1-969e-455b-b4ab-d4a99ab9e8b7" />
