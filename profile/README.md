@@ -1,5 +1,3 @@
-Hello friend 👋. I’ve been working in the sysadmin, devops and cybersecurity domains. I started with Go around 2018 after using mostly Bash, Perl and Python. It took me quite some time to become productive in Go but now I find it very useful - for building tools, automation and platforms.
-
 This organization holds tutorials and tools that I write mainly to keep learning and experimenting. Here's some feedback about the content:
 
 [John Arundel](https://bitfieldconsulting.com) on [reddit](https://www.reddit.com/r/golang/comments/1np884o/comment/nfz99xu):
