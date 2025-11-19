@@ -1,9 +1,10 @@
-This organization holds tutorials and tools that I write mainly to keep learning and experimenting. Here's some feedback about the content:
+This organization holds text and programs that I write to keep learning and experimenting. You might find some of it useful. Here's some feedback about the content:
 
-[John Arundel](https://bitfieldconsulting.com) on [reddit](https://www.reddit.com/r/golang/comments/1np884o/comment/nfz99xu):
+> This is well-written and a great explanation, thank you!
+-- [John Arundel](https://bitfieldconsulting.com) on [reddit](https://www.reddit.com/r/golang/comments/1np884o/comment/nfz99xu)
 
-<img width="412" height="75" alt="image" src="https://github.com/user-attachments/assets/af5da5bc-a2c5-432e-9520-3489a57c3841" />
+> I really like this style of showing steps that would be logical for those new to Go even if they're wrong then showing why it didn't work and walking through the fix. Nice linear progression of real-world learning.
+-- mrbluecoat on [Hacker News](https://news.ycombinator.com/item?id=45167436)
 
-Commenters on [Hacker News](https://news.ycombinator.com/item?id=45167436):
-
-<img width="1033" height="138" alt="image" src="https://github.com/user-attachments/assets/c4b841d1-969e-455b-b4ab-d4a99ab9e8b7" />
+> Nice! You packed in so many things which are often drip fed, and take folk a while to find. Kudos.
+-- pentaphobe on [Hacker News](https://news.ycombinator.com/item?id=45167436)
