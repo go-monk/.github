@@ -1,4 +1,4 @@
-This organization holds text and programs that I write to keep learning and experimenting. You might find (some of) it useful. Here's some feedback about the content:
+This organization holds the text and code I write to keep learning and experimenting. You might find (some of) it useful — here’s some feedback:
 
 > This is well-written and a great explanation, thank you!
 -- [John Arundel](https://bitfieldconsulting.com) on [reddit](https://www.reddit.com/r/golang/comments/1np884o/comment/nfz99xu)
